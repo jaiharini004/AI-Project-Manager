@@ -1,0 +1,9 @@
+# Backend Security
+SECRET_KEY=change_this_to_a_secure_random_string_in_production
+ACCESS_TOKEN_EXPIRE_MINUTES=30
+
+# Database
+DATABASE_URL= sqlite+aiosqlite:///./test.db
+
+# AI Service (Groq)
+GROQ_API_KEY=your_groq_api_key_here
