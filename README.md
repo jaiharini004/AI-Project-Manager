@@ -1,11 +1,5 @@
 # 🚀 AI Project Manager
 
-<div align="center">
-  <p>A high-performance, AI-powered Project Management System mimicking Azure DevOps/Jira aesthetics. Built to streamline project workflows with real-time collaboration and AI task generation.</p>
-</div>
-
----
-
 ## 🌟 Key Features
 
 - **🤖 AI-Powered Task Generation**: Automatically generate actionable project tasks from a single goal using **Groq API** and the **Llama 3** model.
